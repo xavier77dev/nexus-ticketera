@@ -15,7 +15,7 @@ const Nav = ({ isLoggedIn }) => {
   };
 
   if (loggedOut) {
-    window.location.href = "/login";
+    window.location.href = "/";
   }
 
   return (
