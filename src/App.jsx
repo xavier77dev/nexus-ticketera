@@ -74,7 +74,7 @@ function App() {
         {getloggedUserLS.rol == "Cliente" && <Route path='/edit-ticket-note/:id' element={<EditTickeNotetUser />} />}
 
         <Route path="/ticketDetail/:id" element={<TicketDetail />} />
-        <Route path='/login' element={<LoginForm />} />
+        {/* <Route path='/login' element={<LoginForm />} /> */}
         <Route path='/card' element={<CardContainer />} />
       </Routes>
 
