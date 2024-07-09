@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "estado": "Abierto",
+    "prioridad": "Alta",
+    "incidencia": "La aplicación se encuentra lenta y no responde",
+    "diagnostico": "Se está investigando la causa del problema. Se sospecha de una sobrecarga en el servidor.",
+    "usuario_id": 1,
+    "createdAt": "2024-04-09T01:51:26.042Z",
+    "updatedAt": "2024-04-09T01:51:26.042Z"
+  },
+  {
+    "id": 2,
+    "estado": "Abierto",
+    "prioridad": "Alta",
+    "incidencia": "La aplicación se encuentra lenta y no responde",
+    "diagnostico": "Se está investigando la causa del problema. Se sospecha de una sobrecarga en el servidor.",
+    "usuario_id": 1,
+    "createdAt": "2024-04-09T02:02:55.388Z",
+    "updatedAt": "2024-04-09T02:02:55.388Z"
+  },
+  {
+    "id": 3,
+    "estado": "Abierto",
+    "prioridad": "Alta",
+    "incidencia": "La aplicación se encuentra lenta y no responde",
+    "diagnostico": "Se está investigando la causa del problema. Se sospecha de una sobrecarga en el servidor.",
+    "usuario_id": 1,
+    "createdAt": "2024-04-09T02:07:27.078Z",
+    "updatedAt": "2024-04-09T02:07:27.078Z"
+  },
+  {
+    "id": 4,
+    "estado": "Abierto",
+    "prioridad": "Alta",
+    "incidencia": "La aplicación se encuentra lenta y no responde",
+    "diagnostico": "Se está investigando la causa del problema. Se sospecha de una sobrecarga en el servidor.",
+    "usuario_id": 1,
+    "createdAt": "2024-04-09T02:10:46.714Z",
+    "updatedAt": "2024-04-09T02:10:46.714Z"
+  }
+]
